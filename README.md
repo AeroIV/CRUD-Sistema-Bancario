@@ -106,6 +106,8 @@ Esta é uma API RESTful de um sistema bancário que permite diversos tipos de op
 
 4. Mude o ID para um id de uma conta existente.
 
+5. Execute a operação clicando no botão SEND
+
 
 #### Depositar
 
